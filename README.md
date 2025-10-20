@@ -1,18 +1,89 @@
+![header](https://capsule-render.vercel.app/api?type=Waving&color=11ccff&height=150&section=header&text=😃%20Itzpushkar&fontSize=90&fontColor=ffffff)
+<img align="right" height="260px" src="https://i.redd.it/zfb2z53pgcp31.jpg" />
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pushkarkikani2007@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Itzpushkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Itzpushkar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Itzpushkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Itzpushkar&limit=5&theme=dark&combine_all_yearly_contributions=true)
+# 🚀 Hey, I'm **Itzpushkar** (Parv)
+I build simple yet powerful **web apps** that **save time**! When I’m not coding, I'm deep into **Neovim** or enjoying my **ARCH** setup 💪.  
+Exams may sometimes steal my commit streaks, but I always come back stronger! 💯
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Itzpushkar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 **Tech Stack & Tools**
+
+### 🖥️ **Languages**
+- ![Go](https://img.shields.io/badge/Go-00add8?style=for-the-badge&logo=go&logoColor=white)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
+- ![C++](https://img.shields.io/badge/C++-00599c?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+- ![Java](https://img.shields.io/badge/Java-e34f26?style=for-the-badge&logo=openjdk&logoColor=white)
+- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### ⚙️ **Frameworks & Libraries**
+- ![ReactJS](https://img.shields.io/badge/ReactJS-61dafb?style=for-the-badge&logo=react&logoColor=black)
+- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+- ![React Native](https://img.shields.io/badge/React_Native-61dafb?style=for-the-badge&logo=react-native&logoColor=black)
+- ![AngularJS](https://img.shields.io/badge/AngularJS-e23237?style=for-the-badge&logo=angularjs&logoColor=white)
+- ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+- ![Flutter](https://img.shields.io/badge/Flutter-02569b?style=for-the-badge&logo=flutter&logoColor=white)
+
+### 🛠️ **Dev Tools & Databases**
+- ![Neovim](https://img.shields.io/badge/Neovim-57a143?style=for-the-badge&logo=nvim&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white)
+- ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📚 **Projects & Contributions**
+
+### 🚀 **AlgoDoodle**  
+A **Data Structures and Algorithms** learning platform that makes practice fun and interactive!  
+Explore AlgoDoodle here: [AlgoDoodle](https://algodoodle.vercel.app/)
+
+### ⚡ **CircuitSIM**  
+An **8085 Microprocessor Simulator** that brings the complexity of assembly language to life!  
+Try it out: [CircuitSim](https://circuit-sim.vercel.app/)
+
+### 🔝 **Pinned Repositories**  
+Check out all of my projects in the [pinned repositories](https://github.com/Itzpushkar) on GitHub. I keep my best work there! 😄
+
+---
+
+## 🤓 **About Me**
+- **Current Focus**: I'm diving deep into **Go** and **low-level programming** to strengthen my foundation.
+- **Learning Goals**: Master **Rust** and **C++** while sharpening my skills in **Next.js** and **React Native**.
+- **Looking for Collaborations**: Feel free to reach out if you're working on any projects in **Next.js**, **React Native**, or anything that piques my interest!
+
+---
+
+## 📫 **Reach Out to Me**
+- 📧 **Email**: [pushkarkikani2007@gmail.com](mailto:pushkarkikani2007@gmail.com)
+- 📷 **Instagram**: [@calligraphic_parv](https://www.instagram.com/calligraphic_parv)
+- 🐦 **Twitter**: [@itzpushkar](https://twitter.com/itzpushkar) (If you want!)
+
+---
+
+## 📊 **GitHub Stats**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Itzpushkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+### 🏆 **Top Contributed Repos**
+![Top Repos](https://github-contributor-stats.vercel.app/api?username=Itzpushkar&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+[![Visit Count](https://visitcount.itsvg.in/api?id=Itzpushkar&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+
+### 🔧 **Tech Stack Breakdown**
+- **Languages**: Go, TypeScript, JavaScript, Python, C++, Java, PHP
+- **Frameworks**: React, Next.js, React Native, Angular, Tailwind CSS, Flutter, Node.js
+- **Databases**: MongoDB, MySQL, Firebase
+- **Dev Tools**: Neovim, Git, Vercel, Firebase
+
+---
+
+🎉 **Proudly crafted with code, passion, and caffeine!**
