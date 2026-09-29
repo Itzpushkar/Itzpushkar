@@ -31,8 +31,4 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Itzpushkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Itzpushkar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Itzpushkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
